@@ -36,8 +36,8 @@ This project combines several Python libraries to create a full-stack ML applica
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/LostLxbs/Job-Screening-Classification.git] (https://github.com/LostLxbs/Job-Screening-Classification.git)
+    cd Job-Screening-Classification
     ```
 
 2.  **Install Python libraries:**
